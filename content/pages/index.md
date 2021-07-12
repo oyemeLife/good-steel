@@ -32,7 +32,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: small
